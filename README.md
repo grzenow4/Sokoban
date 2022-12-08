@@ -1,5 +1,5 @@
 # Sokoban
-Sokoban game in haskell.
+![screenshot](/screenshot.png)
 
 ## CodeWorld
 You can play the game on [CodeWorld](https://code.world/haskell#Plg7ON0XRfShvcgT0D7DElw).
