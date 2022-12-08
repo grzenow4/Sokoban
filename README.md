@@ -21,6 +21,7 @@ $ ./sokoban-cmd
 ## Controls
 Both versions use the same controls:
 ```
+Space - starts game
 WSAD / Arrows - move forward
 U - undo move
 B - previous level
